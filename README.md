@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm a software engineering student, aiming to write clean, maintainable, and reliable software.
+
+Mainly writing code in .NET (C#/VB).
+
+Looking for an internship.
+
 <!--
 **Youssef1313/Youssef1313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
