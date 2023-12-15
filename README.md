@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software engineering student, aiming to write clean, maintainable, and reliable software.
+I'm a software engineer aiming to write clean, maintainable, and reliable software.
 
 Mainly writing code in .NET (C#/VB).
 
